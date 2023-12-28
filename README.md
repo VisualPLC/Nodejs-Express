@@ -17,6 +17,8 @@ Basic project TODO
 ### Install and start:
 
 ```
-npm install
-node app.js or nodemon node app.js
+- download version LTS and install nodejs --> https://nodejs.org/en
+- install nodemon --> npm install -g nodemon # or using yarn: yarn global add nodemon
+- npm install
+- node app.js or nodemon node app.js
 ```
