@@ -1,5 +1,5 @@
 # Nodejs-Express-MVC
-Node.js Express.js API REST
+Node.js Express.js MVC (Model-View-Controller)
 
 Basic project TODO
 ***
