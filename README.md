@@ -14,3 +14,9 @@ Basic project TODO
 >    - https://github.com/jonmircha/youtube-nodejs
 
 ***
+### Install and start:
+
+```
+npm install
+node app.js or nodemon node app.js
+```
